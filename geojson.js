@@ -9,168 +9,138 @@
 var json = {
   "type": "FeatureCollection",
   "features": [
+   {
+  "type": "FeatureCollection",
+  "features": [
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "image": "https://1.bp.blogspot.com/-WbftUEch0t0/X2DQmPdyksI/AAAAAAAAAIs/JHH1hwcqN0IVWsR8KCYabom1fqoweHBFACLcBGAsYHQ/w1684-h1069-p-k-no-nu/hearts.jpg",
-        "title": "Nebraska State Capitol",
-        "description": "Some description about something that happened at the capitol"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -96.70105934143066,
-              40.806971850092815
-            ],
-            [
-              -96.69826984405518,
-              40.806971850092815
-            ],
-            [
-              -96.69826984405518,
-              40.809131953785965
-            ],
-            [
-              -96.70105934143066,
-              40.809131953785965
-            ],
-            [
-              -96.70105934143066,
-              40.806971850092815
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ee05ff",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "ingredients": "rhubarb, strawberries, egg, milk, butter, so much sugar",
-        "thanks": "thanks to Linnea for giving me a pie",
-        "title": "Starting Point",
-        "image": "https://s3.amazonaws.com/omeka-net/53984/archive/square_thumbnails/e5847940c8baa5e9e50ad71ee468ba0e.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1600905600&Signature=PapYafLVt%2BGfMiI%2F06Ibpay%2FXPk%3D"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/9o52jH\" title=\"Photo #3: This is not a pipeline; this is how Civil Disobedience looks like\"><img src=\"https://live.staticflickr.com/65535/50354612887_6f678a1625_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #3: This is not a pipeline; this is how Civil Disobedience looks like\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.70299053192137,
-          40.81015513625622
+          -88.22725296020508,
+          40.10699506844172
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff5100",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "title": "Path to the library",
-        "image": "https://1.bp.blogspot.com/-WbftUEch0t0/X2DQmPdyksI/AAAAAAAAAIs/JHH1hwcqN0IVWsR8KCYabom1fqoweHBFACLcBGAsYHQ/w1684-h1069-p-k-no-nu/hearts.jpg"
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/QH19q2\" title=\"Photo #10: Preachers are back!\"><img src=\"https://live.staticflickr.com/65535/50354450896_b958e68f0b_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #10: Preachers are back!\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
       },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22683453559875,
+          40.108595194767005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #7: Not too bad, a class in an amphitheater…\"><img src=\"https://live.staticflickr.com/65535/50353748958_c1a7c048d3_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #7: Not too bad, a class in an amphitheater…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22381973266602,
+          40.107987971772765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #6: This is not another party tent…\"><img src=\"https://live.staticflickr.com/65535/50354449781_fdb5ff50a8_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #6: This is not another party tent…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21936726570128,
+          40.10885777600459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #8: Shopping during covid…\"><img src=\"https://live.staticflickr.com/65535/50354613182_ea695f717b_m.jpg\" width=\"180\" height=\"240\" alt=\"Photo #8: Shopping during covid…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22293996810913,
+          40.10694583318867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -96.69979333877563,
-            40.80922127986828
+            -88.21914196014404,
+            40.10904650564297
           ],
           [
-            -96.69986844062804,
-            40.811389430620544
+            -88.21935653686523,
+            40.10886598165191
           ],
           [
-            -96.6997504234314,
-            40.811405671182825
+            -88.22678089141846,
+            40.10878392513396
           ],
           [
-            -96.6996967792511,
-            40.81468618325975
+            -88.22766065597534,
+            40.10881674775303
           ],
           [
-            -96.69984698295592,
-            40.8146943031379
+            -88.22763919830322,
+            40.10699506844172
           ],
           [
-            -96.69984698295592,
-            40.816837916207085
+            -88.2272744178772,
+            40.10702789192399
           ],
           [
-            -96.70262575149535,
-            40.81687851427114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#d4ff00",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#0060ff",
-        "fill-opacity": 0.2,
-        "title": "Love Library",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/189753833@N07/50237618773/in/album-72157715528007683/\" title=\"yawn_connie\"><img src=\"https://live.staticflickr.com/65535/50237618773_c9052299b5_w.jpg\" width=\"300\" height=\"400\" alt=\"yawn_connie\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
-        "random": "Some other random field"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
+            -88.22686672210693,
+            40.10694583318867
+          ],
           [
-            [
-              -96.70274376869202,
-              40.817040906278805
-            ],
-            [
-              -96.70216441154479,
-              40.81700030831414
-            ],
-            [
-              -96.70187473297119,
-              40.817235776163265
-            ],
-            [
-              -96.70193910598755,
-              40.81753619944697
-            ],
-            [
-              -96.70217514038086,
-              40.81769858984467
-            ],
-            [
-              -96.70218586921692,
-              40.818104564099706
-            ],
-            [
-              -96.70297980308533,
-              40.81808832517719
-            ],
-            [
-              -96.70300126075745,
-              40.817609275175144
-            ],
-            [
-              -96.70323729515076,
-              40.81742252593206
-            ],
-            [
-              -96.70299053192137,
-              40.81704902586876
-            ],
-            [
-              -96.70274376869202,
-              40.817040906278805
-            ]
+            -88.22688817977905,
+            40.108029000524226
+          ],
+          [
+            -88.22379827499388,
+            40.10799617752504
+          ],
+          [
+            -88.22381973266602,
+            40.10691300966683
+          ],
+          [
+            -88.22298288345337,
+            40.10694583318867
           ]
         ]
       }
