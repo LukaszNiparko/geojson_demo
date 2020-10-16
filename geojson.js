@@ -7,7 +7,8 @@ var json = {
         "marker-color": "#6496c8",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/9o52jH\" title=\"Photo #3: This is not a pipeline; this is how Civil Disobedience looks like\"><img src=\"https://live.staticflickr.com/65535/50354612887_6f678a1625_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #3: This is not a pipeline; this is how Civil Disobedience looks like\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/9o52jH\" title=\"Photo #3: This is not a pipeline; this is how Civil Disobedience looks like\"><img src=\"https://live.staticflickr.com/65535/50354612887_6f678a1625_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #3: This is not a pipeline; this is how Civil Disobedience looks like\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "This is not a pipeline; this is how Civil Disobedience looks like..."
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@ var json = {
         "marker-color": "#6496c8",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/QH19q2\" title=\"Photo #10: Preachers are back!\"><img src=\"https://live.staticflickr.com/65535/50354450896_b958e68f0b_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #10: Preachers are back!\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/QH19q2\" title=\"Photo #10: Preachers are back!\"><img src=\"https://live.staticflickr.com/65535/50354450896_b958e68f0b_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #10: Preachers are back!\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "Preachers are back!"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@ var json = {
         "marker-color": "#6496c8",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #7: Not too bad, a class in an amphitheater…\"><img src=\"https://live.staticflickr.com/65535/50353748958_c1a7c048d3_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #7: Not too bad, a class in an amphitheater…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #7: Not too bad, a class in an amphitheater…\"><img src=\"https://live.staticflickr.com/65535/50353748958_c1a7c048d3_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #7: Not too bad, a class in an amphitheater…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "Not too bad, a class in an amphitheater…"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +58,8 @@ var json = {
         "marker-color": "#6496c8",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #6: This is not another party tent…\"><img src=\"https://live.staticflickr.com/65535/50354449781_fdb5ff50a8_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #6: This is not another party tent…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #6: This is not another party tent…\"><img src=\"https://live.staticflickr.com/65535/50354449781_fdb5ff50a8_m.jpg\" width=\"240\" height=\"180\" alt=\"Photo #6: This is not another party tent…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "This is not another party tent…"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +75,8 @@ var json = {
         "marker-color": "#6496c8",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #8: Shopping during covid…\"><img src=\"https://live.staticflickr.com/65535/50354613182_ea695f717b_m.jpg\" width=\"180\" height=\"240\" alt=\"Photo #8: Shopping during covid…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/gp/190244070@N03/\" title=\"Photo #8: Shopping during covid…\"><img src=\"https://live.staticflickr.com/65535/50354613182_ea695f717b_m.jpg\" width=\"180\" height=\"240\" alt=\"Photo #8: Shopping during covid…\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "Shopping during covid…"
       },
       "geometry": {
         "type": "Point",
@@ -140,7 +145,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991967/in/album-72157716453503951/\" title=\"IMG_20201008_162549902_HDR\"><img src=\"https://live.staticflickr.com/65535/50486991967_85af98168d_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20201008_162549902_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991967/in/album-72157716453503951/\" title=\"IMG_20201008_162549902_HDR\"><img src=\"https://live.staticflickr.com/65535/50486991967_85af98168d_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20201008_162549902_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "The 2008 again?"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +162,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486841636/in/album-72157716453503951/\" title=\"IMG_20200926_111314300_HDR\"><img src=\"https://live.staticflickr.com/65535/50486841636_fdbab1cb6c_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200926_111314300_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486841636/in/album-72157716453503951/\" title=\"IMG_20200926_111314300_HDR\"><img src=\"https://live.staticflickr.com/65535/50486841636_fdbab1cb6c_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200926_111314300_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "Pandemic cannot kill the spirit!"
       },
       "geometry": {
         "type": "Point",
@@ -172,7 +179,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486840756/in/album-72157716453503951/\" title=\"IMG_7485\"><img src=\"https://live.staticflickr.com/65535/50486840756_7172835d75_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_7485\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486840756/in/album-72157716453503951/\" title=\"IMG_7485\"><img src=\"https://live.staticflickr.com/65535/50486840756_7172835d75_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_7485\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "What is left of us?"
       },
       "geometry": {
         "type": "Point",
@@ -188,7 +196,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486990887/in/album-72157716453503951/\" title=\"IMG_20200926_112119776_HDR\"><img src=\"https://live.staticflickr.com/65535/50486990887_d36c903210_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200926_112119776_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486990887/in/album-72157716453503951/\" title=\"IMG_20200926_112119776_HDR\"><img src=\"https://live.staticflickr.com/65535/50486990887_d36c903210_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200926_112119776_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "People are coming back!"
       },
       "geometry": {
         "type": "Point",
@@ -204,7 +213,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486840956/in/album-72157716453503951/\" title=\"IMG_7490\"><img src=\"https://live.staticflickr.com/65535/50486840956_14a1d20c67_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_7490\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486840956/in/album-72157716453503951/\" title=\"IMG_7490\"><img src=\"https://live.staticflickr.com/65535/50486840956_14a1d20c67_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_7490\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": " No pumpkin without a mask!"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +230,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991867/in/album-72157716453503951/\" title=\"IMG_20200923_182826455\"><img src=\"https://live.staticflickr.com/65535/50486991867_27361e86ce_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200923_182826455\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486136358/in/album-72157716453503951/\" title=\"IMG_20200923_184126022\"><img src=\"https://live.staticflickr.com/65535/50486136358_82c0ee1e4c_z.jpg\" width=\"480\" height=\"640\" alt=\"IMG_20200923_184126022\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "Quarantine nutrients"
       },
       "geometry": {
         "type": "Point",
@@ -236,7 +247,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486842041/in/album-72157716453503951/\" title=\"IMG_20200923_183912909_HDR\"><img src=\"https://live.staticflickr.com/65535/50486842041_23fcd08a1f_z.jpg\" width=\"480\" height=\"640\" alt=\"IMG_20200923_183912909_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486842041/in/album-72157716453503951/\" title=\"IMG_20200923_183912909_HDR\"><img src=\"https://live.staticflickr.com/65535/50486842041_23fcd08a1f_z.jpg\" width=\"480\" height=\"640\" alt=\"IMG_20200923_183912909_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "Empty also outside"
       },
       "geometry": {
         "type": "Point",
@@ -252,7 +264,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991907/in/album-72157716453503951/\" title=\"IMG_20200923_182429547_HDR\"><img src=\"https://live.staticflickr.com/65535/50486991907_dc3ae30747_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200923_182429547_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991907/in/album-72157716453503951/\" title=\"IMG_20200923_182429547_HDR\"><img src=\"https://live.staticflickr.com/65535/50486991907_dc3ae30747_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200923_182429547_HDR\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": " The heart of the downtown"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +281,8 @@ var json = {
         "marker-color": "#ffd60a",
         "marker-size": "medium",
         "marker-symbol": "",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991567/in/album-72157716453503951/\" title=\"IMG_20200925_121221952\"><img src=\"https://live.staticflickr.com/65535/50486991567_330b245e11_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200925_121221952\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190244070@N03/50486991567/in/album-72157716453503951/\" title=\"IMG_20200925_121221952\"><img src=\"https://live.staticflickr.com/65535/50486991567_330b245e11_z.jpg\" width=\"640\" height=\"480\" alt=\"IMG_20200925_121221952\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "description": "If you wear something, you ride something…"
       },
       "geometry": {
         "type": "Point",
